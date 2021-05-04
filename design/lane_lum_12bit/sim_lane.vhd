@@ -17,8 +17,8 @@ end sim_lane;
 architecture sim of sim_lane is
 
 -- define constants for simulation
-  constant stimuli_filename  : string  := "street_0_stimuli.txt";
-  constant expected_filename : string  := "street_0_expected.txt";
+  constant stimuli_filename  : string  := "../../data/street_0_stimuli.txt";
+  constant expected_filename : string  := "../../data/street_0_expected.txt";
   constant response_filename : string  := "street_0_response.txt";
   constant x_size            : integer := 1280;  -- horizontal size of image
   constant y_size            : integer := 720;   -- vertical size of image
