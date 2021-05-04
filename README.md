@@ -1,0 +1,1 @@
+The workbench for experimental projects for the 'FPGA Vision Open Online Course'.
