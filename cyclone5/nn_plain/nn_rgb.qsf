@@ -43,7 +43,6 @@ set_global_assignment -name ORIGINAL_QUARTUS_VERSION 18.1.0
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "21:10:54  MAY 24, 2021"
 set_global_assignment -name LAST_QUARTUS_VERSION "18.1.0 Lite Edition"
 set_global_assignment -name SDC_FILE ../../design/nn_rgb.sdc
-set_global_assignment -name VHDL_FILE ../../design/nn_plain/sim_nn_rgb.vhd
 set_global_assignment -name VHDL_FILE ../../design/nn_plain/sigmoid_IP.vhd
 set_global_assignment -name VHDL_FILE ../../design/nn_plain/nn_rgb.vhd
 set_global_assignment -name VHDL_FILE ../../design/nn_plain/neuron.vhd
