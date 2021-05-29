@@ -18,7 +18,7 @@
 #
 # Quartus Prime
 # Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
-# Date created = 20:25:36  May 26, 2021
+# Date created = 16:30:32  May 29, 2021
 #
 # -------------------------------------------------------------------------- #
 #
@@ -40,7 +40,7 @@ set_global_assignment -name FAMILY "Cyclone V"
 set_global_assignment -name DEVICE 5CEBA2F17C6
 set_global_assignment -name TOP_LEVEL_ENTITY sharp
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 18.1.0
-set_global_assignment -name PROJECT_CREATION_TIME_DATE "20:25:36  MAY 26, 2021"
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "16:30:31  MAY 29, 2021"
 set_global_assignment -name LAST_QUARTUS_VERSION "18.1.0 Lite Edition"
 set_global_assignment -name SDC_FILE ../../design/sharp.sdc
 set_global_assignment -name VHDL_FILE ../../design/sharp/sharp_sync.vhd
